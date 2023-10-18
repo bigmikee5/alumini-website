@@ -28,7 +28,7 @@ s .mask {
 
 .content p {
   font-size: 60px;
-  font-family: "Exo", sans-serif;
+  font-family: sans-serif;
   color: #fff;
   font-weight: 500;
   z-index: -1;
