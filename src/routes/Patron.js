@@ -10,7 +10,7 @@ const Patron = () => {
       <Navbar />
       <Intro2
         heading="Our Beloved Patron"
-        text="Our  Honorary Patron Mr. Ezeugwu Felix is a distinguished individual whose support, guidance, and commitment to our community exemplify the highest standards of leadership and excellence. Serving as a beacon of inspiration, our Honorary Patron plays a pivotal role in guiding the strategic direction and fostering the growth of our alumni association. With their invaluable contributions and unwavering dedication to our shared mission, they continue to inspire and empower us to reach new heights of achievement and success."
+        text="Our Patron Mr. Ezeugwu Felix is a distinguished individual whose support, guidance, and commitment to our community exemplify the highest standards of leadership and excellence. Serving as a beacon of inspiration, Mr. Felix Ezeugwu plays a pivotal role in guiding the strategic direction and fostering the growth of our alumni association. With His invaluable contributions and unwavering dedication to our shared mission, he continue to inspire and empower us to reach new heights of achievement and success."
       />
       <Pattron />
       <Footer />
