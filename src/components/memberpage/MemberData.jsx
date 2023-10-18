@@ -3,7 +3,7 @@ import member2 from "../assets/nkupu.jpg";
 import member3 from "../assets/sheen.jpg";
 import member4 from "../assets/classRep.jpg";
 import member5 from "../assets/treasurer.jpg";
-import member6 from "../assets/coy.jpg";
+import member6 from "../assets/coy.jpeg";
 import member7 from "../assets/finSec.jpg";
 import member8 from "../assets/president.jpg";
 import member9 from "../assets/assCp.jpg";
