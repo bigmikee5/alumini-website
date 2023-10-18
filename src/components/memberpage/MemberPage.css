@@ -1,0 +1,39 @@
+.member-heading {
+  text-align: center;
+  padding: 4rem 0 2rem 0;
+  color: #fff;
+}
+
+.memberContainer {
+  background-color: #fff;
+  color: #000;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 40px;
+  padding-bottom: 5rem;
+}
+
+.member-card {
+  background-color: #1a1919;
+  padding: 1.2rem, 1rem;
+}
+
+.member-card img {
+  width: 100%;
+}
+
+.member-name {
+  color: #fff;
+}
+
+.member-details {
+  padding: 1rem;
+}
+
+@media screen and (max-width: 740px) {
+  .memberContainer {
+    max-width: 90%;
+    margin: auto;
+    grid-template-columns: 1fr;
+  }
+}

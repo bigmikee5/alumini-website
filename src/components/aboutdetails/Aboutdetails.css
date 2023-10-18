@@ -1,0 +1,30 @@
+.aboutDetails {
+  width: 100%;
+  padding: 6rem 1rem;
+  background-color: #fff;
+  color: #fff;
+}
+
+.detail-container {
+  max-width: 1140px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.aboutDetails .box {
+  background-color: orange;
+  border: 1px solid #eee;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+
+@media screen and (max-width: 740px) {
+  .detail-container {
+    max-width: 90%;
+    margin: auto;
+    grid-template-columns: 1fr;
+  }
+}

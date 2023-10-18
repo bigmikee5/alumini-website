@@ -1,0 +1,35 @@
+.executive-heading {
+  text-align: center;
+  padding: 4rem 0 2rem 0;
+}
+
+.executive-container {
+  max-width: 1140px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 40px;
+  padding-bottom: 5rem;
+}
+
+.executive-card {
+  background-color: #1a1919;
+  padding: 1.2rem 1rem;
+}
+
+.executive-card img {
+  width: 100%;
+}
+
+.executive-name {
+  color: #fff;
+  padding: 0.5rem 0;
+}
+
+@media screen and (max-width: 740px) {
+  .executive-container {
+    max-width: 90%;
+    margin: auto;
+    grid-template-columns: 1fr;
+  }
+}
