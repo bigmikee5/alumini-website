@@ -7,6 +7,7 @@
   align-items: center;
   justify-content: space-between;
   gap: 50px;
+  font-family: "poppins", "san-serif";
 }
 
 .footer .information {
@@ -20,6 +21,7 @@
 
 .footer .about .description {
   text-align: justify;
+  word-spacing: -2px;
 }
 
 .footer .contact {
@@ -52,5 +54,9 @@
   .footer .information {
     display: flex;
     flex-direction: column;
+  }
+  .footer .about .description {
+    text-align: left;
+    word-spacing: -2px;
   }
 }
